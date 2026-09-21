@@ -81,19 +81,8 @@ The main goal of this project is to make habit tracking simple, interactive, and
 ```text
 Habit-Flow/
 │
-├── public/
-│   └── logo.png
-│
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-│
-├── index.html
-├── package.json
-├── vite.config.js
-├── README.md
-└── .gitignore
+|---index.html
+|
+|---style.css
+|
+|---script.js
